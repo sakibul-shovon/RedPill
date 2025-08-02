@@ -162,8 +162,7 @@ The platform employs a sophisticated relational database architecture designed f
 | Ariful Islam | 2022204071 |
 | Mahfuza Sultana Borsha | 2022204084 |
 
-### Contributing
-We welcome contributions from all team members. Please follow our coding standards and submit pull requests for review.
+
 
 ### License
 This project is proprietary and confidential. All rights reserved.
