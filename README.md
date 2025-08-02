@@ -61,7 +61,7 @@ To create a vibrant social media ecosystem that seamlessly combines movie discov
 #### Backend
 - **Framework**: Laravel (PHP)
 - **Architecture**: RESTful API with JWT authentication
-- **Database**: MySQL with optimized indexing
+- **Rendering Method**: Client-Side Rendering (CSR)
 
 #### Activity-Based Intelligence
 - **Smart Activity Tracking**: User behavior analysis including viewing patterns, rating frequency, and interaction preferences
