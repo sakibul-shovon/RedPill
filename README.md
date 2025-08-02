@@ -1,6 +1,5 @@
 # RedPill - Movie Social Media Platform
 
-## Project Proposal Submission
 
 ### Project Title
 **RedPill** - A Comprehensive Movie Social Media Platform
